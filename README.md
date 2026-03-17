@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+### Name:Karthik t
+### Reg no:212222210007
 AIM
 To control the status of the given lamp by using two – way switches.
 
